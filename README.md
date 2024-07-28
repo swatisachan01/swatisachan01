@@ -25,7 +25,7 @@ Link to [link to university profile](https://www.liverpool.ac.uk/management/staf
 <br><br>   
 
 ```diff
-- text in red
+- ## A Brief Overview of My Research
 + text in green
 ! text in orange
 # text in gray
