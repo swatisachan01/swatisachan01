@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
+
 🔭 I’m currently working on project on XAI for financial decisions and blockchain for cryptograhic security. 
 
 Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
