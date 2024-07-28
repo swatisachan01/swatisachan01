@@ -14,7 +14,7 @@
 
 #### 🌱🔭 I’m currently working on project on XAI for financial inclusions and blockchain for cryptographic security of AI systems. 
 
-##### Let's connect and explore the fascinating world of AI in finance! 🚀
+#### Let's connect and explore the fascinating world of AI in finance! 🚀
 Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
 <div align="center">
