@@ -45,7 +45,7 @@ Consistency analysis of 36 recurrently funded cases. The line plot shows the pro
 
 The probability mass through line plots and degree of credibility (relative consistency) among four domain experts and data by heat maps for the clear-cut decline, recurrently funded, and rejected cases, respectively. In these figures, the junior underwriters are designated with labels '1' and '2', while senior underwriters are marked as '3' and '4'. The scattered judgment for single pieces of evidence in clear-cut cases and multiple pieces of evidence in recurrent cases is visually represented by variations in color intensity. The degree of credibility does not vary much among underwriters and data for clear-cut decline criteria and recurrently rejected loan applications compared to funded loan applications. The probability mass for an outcome by data reflects the collective judgment by multiple underwriters in the past at time t, whereas the subjective judgment by underwriters through online assessment was obtained at the time t^', such that t<t^'.
 
-### 3. An explainable AI decision-support-system to automate loan underwriting. 
+### 3. An explainable AI decision-support-system to automate loan underwriting
 
 Link to [Link to paper:](https://www.sciencedirect.com/science/article/abs/pii/S0957417419308176)
 
