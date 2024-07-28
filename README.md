@@ -25,7 +25,7 @@ Link to [link to university profile](https://www.liverpool.ac.uk/management/staf
 <br><br>   
 
 
-## A Brief Overview of My Research<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="50" height="50" /> 
+## A Brief Overview of My Research<font color='red'>bar</font>
 
 ### 1. Design Blockchain-Based Auditing System for AI 
 Link to [Link to paper:](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
