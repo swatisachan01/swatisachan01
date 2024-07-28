@@ -10,10 +10,10 @@
 
 🔬 **Research Interests**:
 - Development of explainable AI and machine learning algorithms
-- Automating and augmenting decision-making in finance, insurance, and law
+- Human-AI augmented decisions in finance, insurance, and law
 - Automated auditing of AI algorithmic decisions using Blockchain technology
 
-### 🌱🔭 I’m currently working on project on XAI for financial decisions and blockchain for cryptographic security of AI systems. 
+### 🌱🔭 I’m currently working on project on XAI for financial inclusions and blockchain for cryptographic security of AI systems. 
 
 Let's connect and explore the fascinating world of AI in finance! 🚀
 
