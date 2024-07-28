@@ -1,4 +1,4 @@
-<div align="center">
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/3f19cb8a-e5b5-4687-95e9-5fc7f39ed8ee"><div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400" height="150">
 </div>
 <br><br>   
@@ -25,3 +25,4 @@ Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 </div>
 <br><br>   
 
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/45304ff2-0a32-4146-bb57-331fc7d95434">
