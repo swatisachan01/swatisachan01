@@ -5,14 +5,14 @@
 
 # Hi there 👋, I'm Swati<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="50" height="50" />
 
-#### 🎓Assistant professor: Artificial Intelligence in Finance (Financial Technology) at the University of Liverpool
+### 🎓Assistant professor: Artificial Intelligence in Finance (Financial Technology) at the University of Liverpool
 
-#### 🔬Research Interests:
+### 🔬Research Interests:
 - Development of explainable AI and machine learning algorithms
 - Human-AI augmented decisions in finance, insurance, and law
 - Automated auditing of AI algorithmic decisions using Blockchain technology
 
-#### 🌱🔭 I’m currently working on project on XAI for financial inclusions and blockchain for cryptographic security of AI systems. 
+#### 🔭 I’m currently working on project on XAI for financial inclusions and blockchain for cryptographic security of AI systems. 
 
 #### Let's connect and explore the fascinating world of AI in finance! 🚀
 Link to [link to university profile](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
