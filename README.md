@@ -27,33 +27,3 @@ Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blockchain Animation</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-            margin: 0;
-        }
-        .container {
-            text-align: center;
-        }
-        .container img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Blockchain Animation</h1>
-        <img src="path-to-your-blockchain-animation.gif" alt="Blockchain Animation">
-    </div>
-</body>
-</html>
