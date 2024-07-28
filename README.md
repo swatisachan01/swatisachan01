@@ -25,8 +25,7 @@ Link to [link to university profile](https://www.liverpool.ac.uk/management/staf
 <br><br>   
 
 
-## A Brief Overview of My Research 
-$${\color{blue}Blue}$$	
+## A Brief Overview of My Research $${\color{blue}Blue}$$	
 
 ### 1. Design Blockchain-Based Auditing System for AI 
 Link to [Link to paper:](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
