@@ -8,7 +8,7 @@
 
 #### 🎓Lecturer in Artificial Intelligence in Finance (Financial Technology) at the University of Liverpool**
 
-#### 🔬Research Interests**:
+#### 🔬Research Interests:
 - Development of explainable AI and machine learning algorithms
 - Human-AI augmented decisions in finance, insurance, and law
 - Automated auditing of AI algorithmic decisions using Blockchain technology
