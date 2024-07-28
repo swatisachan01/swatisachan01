@@ -27,7 +27,9 @@ Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
 ## Quick introduction to my work
 
-## 1. Design Blockchain-Based Auditing System for AI
+## 1. Design Blockchain-Based Auditing System for AI 
+Link to [site name](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
+
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/45304ff2-0a32-4146-bb57-331fc7d95434">
 
 #### Blockchain-based auditing process for legal drafting and response management ![image](https://github.com/user-attachments/assets/1d41cb3e-6dbf-4d9d-b072-d11934c53983)
