@@ -34,7 +34,9 @@ Link to [Link to paper:](https://www.sciencedirect.com/science/article/abs/pii/S
 #### Blockchain-based auditing process for legal drafting and response management ![image](https://github.com/user-attachments/assets/1d41cb3e-6dbf-4d9d-b072-d11934c53983)
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/0539e96e-3a07-4f8c-b724-32d154c27f98">
 
-### 2. Humans and AI Collaboration to reduce judgment noise. This work validates Daniel Kahneman's decision theory on "Noisy" Human Judgment and shows how AI and Human collaboration can offset the gap between past inconsistent decisions and the ultimate true decisions by the Evidential Reasoning-eXplainer (ER-X) algorithm.
+### 2. Humans and AI Collaboration to reduce judgment noise. 
+
+#### This work validates Daniel Kahneman's decision theory on "Noisy" Human Judgment and shows how AI and Human collaboration can offset the gap between past inconsistent decisions and the ultimate true decisions by the Evidential Reasoning-eXplainer (ER-X) algorithm.
 Link to [Link to paper:](https://www.sciencedirect.com/science/article/abs/pii/S1057521924000814)
 
  <img width="474" alt="image" src="https://github.com/user-attachments/assets/7b0ca981-03db-45d6-8f54-3e407a63e10c">
