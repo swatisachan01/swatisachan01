@@ -25,36 +25,3 @@ Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 </div>
 <br><br>   
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blockchain Icon</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-            margin: 0;
-        }
-        .container {
-            text-align: center;
-        }
-        .container img {
-            max-width: 100px;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Blockchain Icon</h1>
-        <img src="path-to-your-blockchain-icon.png" alt="Blockchain Icon">
-    </div>
-</body>
-</html>
