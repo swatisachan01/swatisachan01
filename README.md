@@ -14,7 +14,7 @@
 #### 🌱🔭 I’m currently working on project on XAI for financial inclusions and blockchain for cryptographic security of AI systems. 
 
 #### Let's connect and explore the fascinating world of AI in finance! 🚀
-Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
+Link to [link to university profile](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -28,7 +28,7 @@ Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 ## Quick introduction to my work
 
 ### 1. Design Blockchain-Based Auditing System for AI 
-Link to [site name](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
+Link to [Link to paper:](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
 
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/45304ff2-0a32-4146-bb57-331fc7d95434">
 
@@ -36,7 +36,7 @@ Link to [site name](https://www.sciencedirect.com/science/article/abs/pii/S09521
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/0539e96e-3a07-4f8c-b724-32d154c27f98">
 
 ### 2. Humans and AI Collaboration to reduce judgment noise. This work validates Daniel Kahneman's decision theory on "Noisy" Human Judgment and shows how AI and Human collaboration can offset the gap between past inconsistent decisions and the ultimate true decisions by the Evidential Reasoning-eXplainer (ER-X) algorithm.
-Link to [site name](https://www.sciencedirect.com/science/article/abs/pii/S1057521924000814)
+Link to [Link to paper:](https://www.sciencedirect.com/science/article/abs/pii/S1057521924000814)
 
  <img width="474" alt="image" src="https://github.com/user-attachments/assets/7b0ca981-03db-45d6-8f54-3e407a63e10c">
 
