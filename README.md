@@ -35,3 +35,19 @@ Link to [site name](https://www.sciencedirect.com/science/article/abs/pii/S09521
 #### Blockchain-based auditing process for legal drafting and response management ![image](https://github.com/user-attachments/assets/1d41cb3e-6dbf-4d9d-b072-d11934c53983)
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/0539e96e-3a07-4f8c-b724-32d154c27f98">
 
+## 2. Humans and AI Collaboration to reduce judgment noise. This work validates Daniel Kahneman's decision theory on "Noisy" Human Judgment and shows how AI and Human collaboration can offset the gap between past inconsistent decisions and the ultimate true decisions by the Evidential Reasoning-eXplainer (ER-X) algorithm.
+Link to [site name](https://www.sciencedirect.com/science/article/abs/pii/S1057521924000814)
+
+ <img width="474" alt="image" src="https://github.com/user-attachments/assets/7b0ca981-03db-45d6-8f54-3e407a63e10c">
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/969b39a4-fa2c-4f2a-ba50-f58fc7033214">
+Consistency analysis of 36 recurrently funded cases. The line plot shows the probability mass for the fund {F} decision. The remaining probability mass is assigned to reject {R} decision by data and not-sure {F, R} by underwriters.
+
+The probability mass through line plots and degree of credibility (relative consistency) among four domain experts and data by heat maps for the clear-cut decline, recurrently funded, and rejected cases, respectively. In these figures, the junior underwriters are designated with labels '1' and '2', while senior underwriters are marked as '3' and '4'. The scattered judgment for single pieces of evidence in clear-cut cases and multiple pieces of evidence in recurrent cases is visually represented by variations in color intensity. The degree of credibility does not vary much among underwriters and data for clear-cut decline criteria and recurrently rejected loan applications compared to funded loan applications. The probability mass for an outcome by data reflects the collective judgment by multiple underwriters in the past at time t, whereas the subjective judgment by underwriters through online assessment was obtained at the time t^', such that t<t^'.
+
+
+
+
+
+
+
