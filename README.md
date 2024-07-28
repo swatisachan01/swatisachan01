@@ -25,4 +25,8 @@ Link to [site name](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 </div>
 <br><br>   
 
+
+## Quick introduction to my work
+
+## 1. Design Blockchain-Based Auditing System for AI
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/45304ff2-0a32-4146-bb57-331fc7d95434">
