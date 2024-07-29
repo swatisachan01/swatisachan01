@@ -53,7 +53,10 @@ Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S09574174
 
 <img width="1351" alt="Screenshot 2024-07-28 at 17 53 10" src="https://github.com/user-attachments/assets/7d7fbf69-9513-48c9-982a-7969c90ee9f5">
 
+### 4. Human-in-the-Loop Framework to mitigate human error and malicious intent by eXplainable Deep Neural Network (xDNN) and cryptographic security through blockchain
+Link to [PAPER:](https://link.springer.com/chapter/10.1007/978-3-031-64359-0_3)
 
+![image](https://github.com/user-attachments/assets/049f57ea-afb4-43a5-81e7-b7fdd5e09d8b)
 
 
 
