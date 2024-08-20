@@ -62,6 +62,14 @@ Link to [PAPER:](https://link.springer.com/chapter/10.1007/978-3-031-64359-0_3)
 Internal and External Legal Data Management by Blockchain
 ![image](https://github.com/user-attachments/assets/f0a7dad6-b18e-4250-9ffc-dc38d302c349)
 
+### 5. Blockchain Framework in Compliance with Data Protection Law to Manage and Integrate Human Knowledge by Fuzzy Cognitive Maps: Small Business Loans 
+New firms have minimum accessibility to data, unlike large data repositories of businesses operating for longer periods. They rely on the knowledge exchange and perceptions of domain experts outside the organisation to enhance the capability of the decision support systems. This paper presents a framework on blockchain technology to develop a secure knowledge management service which addresses the challenges imposed by European and US data protection laws and high on-chain computational costs. It presents a hybrid off-chain and on-chain smart contract computation methodology for the scalable application of blockchain technology. It requires low on-chain storage cost and low cost of frequent data imports for off-chain AI computations. The framework demonstrates a real-world application of knowledge management by blockchain to integrate the judgment of multiple financial experts to design loan eligibility policies.
+
+Link to [PAPER:](https://ieeexplore.ieee.org/document/10174925)
+
+![image](https://github.com/user-attachments/assets/60be144b-3157-42cb-abef-32981830de4a)
+Architecture to Manage Knowledge-Base by Blockchain
+
 
 
 
