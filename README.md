@@ -20,7 +20,7 @@ Link to [University Research and Teaching Profile](https://www.liverpool.ac.uk/m
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffaun.pub%2Flaunching-gui-application-inside-docker-container-55c770a774af&psig=AOvVaw3A6YwTQXpVQycWfPFbQQ67&ust=1724245673495000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjypO7Rg4gDFQAAAAAdAAAAABAJ" width="100">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*E8IgOSkMTpBRs0w0-Zsx2g.gif" width="100">
 </div>
 <br><br>   
 
