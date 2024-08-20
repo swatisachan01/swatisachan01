@@ -20,6 +20,7 @@ Link to [University Research and Teaching Profile](https://www.liverpool.ac.uk/m
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+![image](https://github.com/user-attachments/assets/347f3954-db2d-46bc-9c48-b6e5ef024d57)
 </div>
 <br><br>   
 
