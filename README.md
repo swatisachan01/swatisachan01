@@ -70,8 +70,9 @@ Link to [PAPER:](https://ieeexplore.ieee.org/document/10174925)
 ![image](https://github.com/user-attachments/assets/60be144b-3157-42cb-abef-32981830de4a)
 Architecture to Manage Knowledge-Base by Blockchain
 
+![image](https://github.com/user-attachments/assets/6b86e00a-674a-4a0c-b801-617c2cd1958f)
+Average latency and throughput of 800 transactions
 
-
-
-
+![image](https://github.com/user-attachments/assets/b5ca58b9-5e1f-480b-b855-8ce373852caa)
+Off-chain knowledge integration by FCM to assess loan eligibility dynamics by 12 small business loan experts in four organisations    
 
