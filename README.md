@@ -3,7 +3,8 @@
 </div>
 <br>   
 
-## Hi there 👋, I'm Swati. I am Asst. Prof. in  Artificial Intelligence in Finance at the University of Liverpool 🎓<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="50" height="50" />
+## Hi there 👋, I'm Swati. 🎓<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="50" height="50" />
+## I am Asst. Prof. in  Artificial Intelligence in Finance at the University of Liverpool. 
 
 ### 🔬Research Interests:
 - Development of explainable AI and machine learning algorithms
