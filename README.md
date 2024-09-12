@@ -13,8 +13,6 @@ Please get in touch: swati.sachan@liverpool.ac.uk
 - Automated auditing of AI algorithmic decisions using Blockchain technology
 
 #### 🔭 I’m currently working on a project on XAI for financial inclusions and blockchain for the cryptographic security of AI systems. 
-
-#### Let's connect and explore the fascinating world of AI in finance! 🚀
 Link to [University Research and Teaching Profile](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
 <div align="center">
