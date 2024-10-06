@@ -6,6 +6,15 @@
 ## Hi there 👋, I'm Swati 🎓  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist" width="50" height="50" />
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*E8IgOSkMTpBRs0w0-Zsx2g.gif" width="170">
+</div>
+<br><br>   
+
 ### About Me  
 I am an **Assistant Professor in Artificial Intelligence in Finance**. My research focuses on creating secure and transparent AI systems, particularly for finance, law, and insurance industries. While many of my research repositories are private, you can find an overview of my key projects below.
 
@@ -27,15 +36,6 @@ I am an **Assistant Professor in Artificial Intelligence in Finance**. My resear
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-sachan/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/swatisachan01)
 
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*E8IgOSkMTpBRs0w0-Zsx2g.gif" width="170">
-</div>
-<br><br>   
 
 ## `A Brief Overview of My Research`
 
