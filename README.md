@@ -3,22 +3,30 @@
 </div>
 <br>   
 
-## Hi there 👋, I'm Swati. 🎓<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="50" height="50" />
-## I am Asst. Prof. in  Artificial Intelligence in Finance. Most of my research repositories are private, the section below provides a brief overview of my projects. 
+## Hi there 👋, I'm Swati 🎓  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist" width="50" height="50" />
+
+### About Me  
+I am an **Assistant Professor in Artificial Intelligence in Finance**. My research focuses on creating secure and transparent AI systems, particularly for finance, law, and insurance industries. While many of my research repositories are private, you can find an overview of my key projects below.
+
 [![Link to University of Liverpool Research and Teaching Profile](https://img.shields.io/badge/University_Profile-003366?style=for-the-badge&logo=academia&logoColor=white)](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
-### Connect with me:
+### 🔬 Research Interests:
+- Development of **explainable AI** and machine learning algorithms
+- **Human-AI augmented decision-making** in finance, insurance, and law
+- **Blockchain technology** for automated auditing of AI decisions
+- Cryptographic security for AI systems
+
+#### Current Projects:
+🔭 I’m currently working on projects involving **Explainable AI (XAI)** for financial inclusion and **Blockchain** to enhance the cryptographic security of AI systems.
+
+[![Publications](https://img.shields.io/badge/Publications-336699?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.liverpool.ac.uk/people/swati-sachan/publications)
+
+### 📬 Connect with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swati.sachan@liverpool.ac.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-sachan/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/swatisachan01)
 
-### 🔬Research Interests:
-- Development of explainable AI and machine learning algorithms
-- Human-AI augmented decisions in finance, insurance, and law
-- Automated auditing of AI algorithmic decisions using Blockchain technology
-
-#### 🔭 I’m currently working on a project on XAI for financial inclusions and blockchain for the cryptographic security of AI systems. 
-[![Publications](https://img.shields.io/badge/Publications-336699?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.liverpool.ac.uk/people/swati-sachan/publications)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
