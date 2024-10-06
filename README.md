@@ -8,7 +8,9 @@
 
 ### Connect with me
 swati.sachan@liverpool.ac.uk
+
 [![Twitter](https://x.com/swatisachan01)
+
 [![LinkedIn](https://www.linkedin.com/in/swati-sachan/)
 
 
