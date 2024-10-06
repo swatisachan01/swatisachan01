@@ -4,7 +4,7 @@
 <br>   
 
 ## Hi there 👋, I'm Swati 🎓  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist" width="50" height="50" />
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -15,7 +15,7 @@
 </div>
 <br><br>   
 
-### About Me  
+### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist" width="50" height="50" /> 
 I am an **Assistant Professor in Artificial Intelligence in Finance**. My research focuses on creating secure and transparent AI systems, particularly for finance, law, and insurance industries. While many of my research repositories are private, you can find an overview of my key projects below.
 
 [![Link to University of Liverpool Research and Teaching Profile](https://img.shields.io/badge/University_Profile-003366?style=for-the-badge&logo=academia&logoColor=white)](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
