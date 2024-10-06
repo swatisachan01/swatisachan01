@@ -17,7 +17,7 @@
 - Automated auditing of AI algorithmic decisions using Blockchain technology
 
 #### 🔭 I’m currently working on a project on XAI for financial inclusions and blockchain for the cryptographic security of AI systems. 
-[![Link to: University of Liverpool Research and Teaching Profile](https://img.shields.io/badge/University_Profile-003366?style=for-the-badge&logo=academia&logoColor=white)](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
+[![Link to University of Liverpool Research and Teaching Profile](https://img.shields.io/badge/University_Profile-003366?style=for-the-badge&logo=academia&logoColor=white)](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
 
 <div align="center">
