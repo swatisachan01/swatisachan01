@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400" height="160">
 </div>
 <br>   
-# Hi there 👋, I'm Swati 🎓  
+
+## Hi there 👋, I'm Swati 🎓  
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
