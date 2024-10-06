@@ -5,6 +5,7 @@
 
 ## Hi there 👋, I'm Swati. 🎓<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="50" height="50" />
 ## I am Asst. Prof. in  Artificial Intelligence in Finance. Most of my research repositories are private, the section below provides a brief overview of my projects. 
+[![Link to University of Liverpool Research and Teaching Profile](https://img.shields.io/badge/University_Profile-003366?style=for-the-badge&logo=academia&logoColor=white)](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
 
 ### Connect with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swati.sachan@liverpool.ac.uk)
@@ -17,8 +18,7 @@
 - Automated auditing of AI algorithmic decisions using Blockchain technology
 
 #### 🔭 I’m currently working on a project on XAI for financial inclusions and blockchain for the cryptographic security of AI systems. 
-[![Link to University of Liverpool Research and Teaching Profile](https://img.shields.io/badge/University_Profile-003366?style=for-the-badge&logo=academia&logoColor=white)](https://www.liverpool.ac.uk/management/staff/swati-sachan/)
-
+[![Publications](https://img.shields.io/badge/Publications-336699?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.liverpool.ac.uk/people/swati-sachan/publications)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
