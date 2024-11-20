@@ -88,3 +88,13 @@ Average latency and throughput of 800 transactions
 ![image](https://github.com/user-attachments/assets/b5ca58b9-5e1f-480b-b855-8ce373852caa)
 Off-chain knowledge integration by FCM to assess loan eligibility dynamics by 12 small business loan experts in four organisations    
 
+### 6. Optimal data-driven strategy for in-house and outsourced technological innovations by open banking APIs
+Link to [PAPER:](https://fbj.springeropen.com/articles/10.1186/s43093-024-00397-3)
+
+![image](https://github.com/user-attachments/assets/5d955d42-af06-4499-a07b-54bd72ade115)
+
+![image](https://github.com/user-attachments/assets/e75ecb49-a4e2-4dc5-b0eb-d386e8dee9a7)
+
+
+
+
