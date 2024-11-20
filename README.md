@@ -79,7 +79,7 @@ New firms have minimum accessibility to data, unlike large data repositories of 
 
 Link to [PAPER:](https://ieeexplore.ieee.org/document/10174925)
 
-![image](https://github.com/user-attachments/assets/60be144b-3157-42cb-abef-32981830de4a)
+![image](<img width="410" alt="image" src="https://github.com/user-attachments/assets/af911e7e-aec4-483a-949a-f97c2b60eafd">)
 Architecture to Manage Knowledge-Base by Blockchain
 
 ![image](https://github.com/user-attachments/assets/6b86e00a-674a-4a0c-b801-617c2cd1958f)
