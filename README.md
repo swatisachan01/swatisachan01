@@ -85,7 +85,7 @@ Architecture to Manage Knowledge-Base by Blockchain
 ![image](https://github.com/user-attachments/assets/6b86e00a-674a-4a0c-b801-617c2cd1958f)
 Average latency and throughput of 800 transactions
 
-![image](https://github.com/user-attachments/assets/b5ca58b9-5e1f-480b-b855-8ce373852caa)
+<img width="1247" alt="Screenshot 2024-11-20 at 23 29 10" src="https://github.com/user-attachments/assets/6fde94d3-7425-4617-9e32-33c49938a8d3">
 Off-chain knowledge integration by FCM to assess loan eligibility dynamics by 12 small business loan experts in four organisations    
 
 ### 6. Optimal data-driven strategy for in-house and outsourced technological innovations by open banking APIs
