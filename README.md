@@ -32,10 +32,12 @@
 
 [![Publications](https://img.shields.io/badge/Publications-336699?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.liverpool.ac.uk/people/swati-sachan/publications)
 
-### 📬 Connect with me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swati.sachan@liverpool.ac.uk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-sachan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/swatisachan01)
+### Connect with Me 🌐
+<div align="center">
+<a href="your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="your-researchgate-url"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
+<a href="your-website-url"><img src="https://img.shields.io/badge/-Website-FF7139?style=flat&logo=firefox&logoColor=white" /></a>
+</div>
 
 
 ## `A Brief Overview of My Research`
