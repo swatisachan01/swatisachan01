@@ -23,10 +23,9 @@
 <div align="center">
 <br>
 <a href="https://www.linkedin.com/in/swati-sachan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-<a href="https://www.liverpool.ac.uk/people/swati-sachan"><img src="https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="University Website" /></a>
 <a href="mailto:swati.sachan@liverpool.ac.uk"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.liverpool.ac.uk/people/swati-sachan/teaching#tabbed-content
-"><img src="https://img.shields.io/badge/University_Profile-003366?style=for-the-badge&logo=academia&logoColor=white" alt="University of Liverpool Research and Teaching Profile" /></a>
+"><img src="https://www.liverpool.ac.uk/people/swati-sachan" alt="University of Liverpool Research and Teaching Profile" /></a>
 <br>
 </div>
 
