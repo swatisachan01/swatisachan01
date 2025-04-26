@@ -36,6 +36,7 @@
 
 #### Current Projects:
 🔭 I’m currently working on projects involving **Explainable AI (XAI)** for financial inclusion and **Blockchain** to enhance the cryptographic security of AI systems.
+
 [![Publications](https://img.shields.io/badge/Publications-336699?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.liverpool.ac.uk/people/swati-sachan/publications)
 
 
