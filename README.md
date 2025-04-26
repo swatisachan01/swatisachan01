@@ -34,9 +34,11 @@
 
 ### Connect with Me 🌐
 <div align="center">
-<a href="https://www.linkedin.com/in/swati-sachan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-<a href="https://www.liverpool.ac.uk/people/swati-sachan"><img src="https://img.shields.io/badge/-Website-FF7139?style=flat&logo=firefox&logoColor=white" alt="University Website" /></a>
-<a href="mailto:swati.sachan@liverpool.ac.uk"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<br>
+<a href="https://www.linkedin.com/in/swati-sachan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+<a href="https://www.liverpool.ac.uk/people/swati-sachan"><img src="https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="University Website" /></a>
+<a href="mailto:swati.sachan@liverpool.ac.uk"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br>
 </div>
 
 ## `A Brief Overview of My Research`
