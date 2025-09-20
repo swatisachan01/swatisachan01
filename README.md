@@ -45,6 +45,11 @@
 ### 1. Responsible LLM Deployment for High-Stake Decisions by Decentralized Technologies and Human-AI Interactions
 Link to [PAPER:](https://ieeexplore.ieee.org/document/11154208) 
 
+<img width="1018" height="423" alt="image" src="https://github.com/user-attachments/assets/fd8bcc12-718a-48bf-b850-ca39817f3d68" />
+
+<img width="499" height="300" alt="image" src="https://github.com/user-attachments/assets/cd15f92a-710c-4976-a842-a1671385c6b7" />
+
+
 ### 1. Design Blockchain-Based Auditing System for AI 
 Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
 
