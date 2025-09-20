@@ -49,6 +49,8 @@ Link to [PAPER:](https://ieeexplore.ieee.org/document/11154208)
 
 <img width="499" height="300" alt="image" src="https://github.com/user-attachments/assets/cd15f92a-710c-4976-a842-a1671385c6b7" />
 
+<img width="497" height="267" alt="image" src="https://github.com/user-attachments/assets/0ba4c8a4-110c-4113-a7ed-fdde47e9fcfb" />
+
 
 ### 1. Design Blockchain-Based Auditing System for AI 
 Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
