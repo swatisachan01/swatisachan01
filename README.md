@@ -46,7 +46,7 @@
 Link to [PAPER:](https://ieeexplore.ieee.org/document/11154208) 
 
 <img width="1018" height="423" alt="image" src="https://github.com/user-attachments/assets/fd8bcc12-718a-48bf-b850-ca39817f3d68" />
-#### Framework on Human-AI interaction and use of decentralized technologies for responsible and secure LLM deployment 
+Framework on Human-AI interaction and use of decentralized technologies for responsible and secure LLM deployment 
 
 <img width="499" height="300" alt="image" src="https://github.com/user-attachments/assets/cd15f92a-710c-4976-a842-a1671385c6b7" />
 
