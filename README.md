@@ -42,6 +42,9 @@
 
 ## `A Brief Overview of My Research`
 
+### 1. Responsible LLM Deployment for High-Stake Decisions by Decentralized Technologies and Human-AI Interactions
+Link to [PAPER:](https://ieeexplore.ieee.org/document/11154208) 
+
 ### 1. Design Blockchain-Based Auditing System for AI 
 Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
 
