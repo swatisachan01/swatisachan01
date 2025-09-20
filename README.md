@@ -45,6 +45,8 @@
 ### 1. Responsible LLM Deployment for High-Stake Decisions by Decentralized Technologies and Human-AI Interactions
 Link to [PAPER:](https://ieeexplore.ieee.org/document/11154208) 
 
+High-stakes decision domains are increasingly exploring the potential of Large Language Models (LLMs) for complex decision-making tasks. However, LLM deployment in real-world settings presents challenges in data security, evaluation of its capabilities outside controlled environments, and accountability attribution in the event of adversarial decisions. This paper proposes a framework for responsible deployment of LLM-based decision-support systems through active human involvement. It integrates interactive collaboration between human experts and developers through multiple iterations at the pre-deployment stage to assess the uncertain samples and judge the stability of the explanation provided by post-hoc XAI techniques. Local LLM deployment within organizations and decentralized technologies, such as Blockchain and IPFS, are proposed to create immutable records of LLM activities for automated auditing to enhance security and trace back accountability. It was tested on Bert-large-uncased, Mistral, and LLaMA 2 and 3 models to assess the capability to support responsible financial decisions on business lending.
+
 <img width="1018" height="423" alt="image" src="https://github.com/user-attachments/assets/fd8bcc12-718a-48bf-b850-ca39817f3d68" />
 Framework on Human-AI interaction and use of decentralized technologies for responsible and secure LLM deployment 
 
