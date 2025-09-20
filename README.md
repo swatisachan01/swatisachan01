@@ -46,13 +46,14 @@
 Link to [PAPER:](https://ieeexplore.ieee.org/document/11154208) 
 
 <img width="1018" height="423" alt="image" src="https://github.com/user-attachments/assets/fd8bcc12-718a-48bf-b850-ca39817f3d68" />
+#### Framework on Human-AI interaction and use of decentralized technologies for responsible and secure LLM deployment 
 
 <img width="499" height="300" alt="image" src="https://github.com/user-attachments/assets/cd15f92a-710c-4976-a842-a1671385c6b7" />
 
 <img width="497" height="267" alt="image" src="https://github.com/user-attachments/assets/0ba4c8a4-110c-4113-a7ed-fdde47e9fcfb" />
 
 
-### 1. Design Blockchain-Based Auditing System for AI 
+### 2. Design Blockchain-Based Auditing System for AI 
 Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S095219762301850X?via%3Dihub)
 
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/45304ff2-0a32-4146-bb57-331fc7d95434">
@@ -60,7 +61,7 @@ Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S09521976
 #### Blockchain-based auditing process for legal drafting and response management ![image](https://github.com/user-attachments/assets/1d41cb3e-6dbf-4d9d-b072-d11934c53983)
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/0539e96e-3a07-4f8c-b724-32d154c27f98">
 
-### 2. Humans and AI Collaboration to Reduce Judgment Noise
+### 3. Humans and AI Collaboration to Reduce Judgment Noise
 
 #### This work validates [`Daniel Kahneman's decision theory on "Noisy" Human Judgment`](https://en.wikipedia.org/wiki/Noise:_A_Flaw_in_Human_Judgment) and shows how AI and Human collaboration can offset the gap between past inconsistent decisions and the ultimate true decisions by the Evidential Reasoning-eXplainer (ER-X) algorithm.
 Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S1057521924000814)
@@ -74,12 +75,12 @@ Consistency analysis of 36 recurrently funded cases. The line plot shows the pro
 The probability mass through line plots and degree of credibility (relative consistency) among four domain experts and data by heat maps for the clear-cut decline, recurrently funded, and rejected cases, respectively. In these figures, the junior underwriters are designated with labels '1' and '2', while senior underwriters are marked as '3' and '4'. The scattered judgment for single pieces of evidence in clear-cut cases and multiple pieces of evidence in recurrent cases is visually represented by variations in color intensity. The degree of credibility does not vary much among underwriters and data for clear-cut decline criteria and recurrently rejected loan applications compared to funded loan applications. The probability mass for an outcome by data reflects the collective judgment by multiple underwriters in the past at time t, whereas the subjective judgment by underwriters through online assessment was obtained at the time t^', such that t<t^'.
 <br> 
  
-### 3. An explainable AI decision-support-system to automate loan underwriting
+### 4. An explainable AI decision-support-system to automate loan underwriting
 Link to [PAPER:](https://www.sciencedirect.com/science/article/abs/pii/S0957417419308176)
 
 <img width="1351" alt="Screenshot 2024-07-28 at 17 53 10" src="https://github.com/user-attachments/assets/7d7fbf69-9513-48c9-982a-7969c90ee9f5">
 
-### 4. Human-in-the-Loop Framework to mitigate human error and malicious intent by eXplainable Deep Neural Network (xDNN) and cryptographic security through blockchain
+### 5. Human-in-the-Loop Framework to mitigate human error and malicious intent by eXplainable Deep Neural Network (xDNN) and cryptographic security through blockchain
 Link to [PAPER:](https://link.springer.com/chapter/10.1007/978-3-031-64359-0_3)
 
 ![image](https://github.com/user-attachments/assets/049f57ea-afb4-43a5-81e7-b7fdd5e09d8b)
@@ -87,7 +88,7 @@ Link to [PAPER:](https://link.springer.com/chapter/10.1007/978-3-031-64359-0_3)
 Internal and External Legal Data Management by Blockchain
 ![image](https://github.com/user-attachments/assets/f0a7dad6-b18e-4250-9ffc-dc38d302c349)
 
-### 5. Blockchain Framework in Compliance with Data Protection Law to Manage and Integrate Human Knowledge by Fuzzy Cognitive Maps: Small Business Loans 
+### 6. Blockchain Framework in Compliance with Data Protection Law to Manage and Integrate Human Knowledge by Fuzzy Cognitive Maps: Small Business Loans 
 New firms have minimum accessibility to data, unlike large data repositories of businesses operating for longer periods. They rely on the knowledge exchange and perceptions of domain experts outside the organisation to enhance the capability of the decision support systems. This paper presents a framework on blockchain technology to develop a secure knowledge management service which addresses the challenges imposed by European and US data protection laws and high on-chain computational costs. It presents a hybrid off-chain and on-chain smart contract computation methodology for the scalable application of blockchain technology. It requires low on-chain storage cost and low cost of frequent data imports for off-chain AI computations. The framework demonstrates a real-world application of knowledge management by blockchain to integrate the judgment of multiple financial experts to design loan eligibility policies.
 
 Link to [PAPER:](https://ieeexplore.ieee.org/document/10174925)
@@ -101,7 +102,7 @@ Average latency and throughput of 800 transactions
 <img width="1247" alt="Screenshot 2024-11-20 at 23 29 10" src="https://github.com/user-attachments/assets/6fde94d3-7425-4617-9e32-33c49938a8d3">
 Off-chain knowledge integration by FCM to assess loan eligibility dynamics by 12 small business loan experts in four organisations    
 
-### 6. Optimal data-driven strategy for in-house and outsourced technological innovations by open banking APIs
+### 7. Optimal data-driven strategy for in-house and outsourced technological innovations by open banking APIs
 Link to [PAPER:](https://fbj.springeropen.com/articles/10.1186/s43093-024-00397-3)
 
 ![image](https://github.com/user-attachments/assets/5d955d42-af06-4499-a07b-54bd72ade115)
