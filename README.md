@@ -17,7 +17,7 @@
 <br><br>   
 
 ### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist" width="50" height="50" /> 
-#### I am an Assistant Professor of Artificial Intelligence in Finance. My research focuses on creating secure and transparent AI systems, particularly for the finance, law, and insurance industries. 🔒 Most of my research repositories are private, but you can explore an overview of my key projects below.
+#### I am an Assistant Professor of Artificial Intelligence in Finance. My research focuses on creating secure and transparent AI systems, particularly for the finance, law, and insurance industries. Explore an overview of my key projects below.
 
 ## Connect with Me 🌐
 <div align="center">
